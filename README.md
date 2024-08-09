@@ -5,7 +5,7 @@ A React Frontend application provides the latest crypto prices and news from Rap
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Preview
-
+Due to new rules of V2 API, could not run them successfully on local..but learnt the procedure of API integration. These are snaps from others on same projects.
 <img src="./resources/home.png" width="400" />&nbsp;<img src="./resources/chart.png" width="400" />
 <img src="./resources/coin.png" width="400" />&nbsp;<img src="./resources/news.png" width="400" />
 
